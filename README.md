@@ -1,2 +1,1 @@
-# reviews-sevice-proxy
-Proxy for reviews-service
+# guinzar-chompy-proxy
